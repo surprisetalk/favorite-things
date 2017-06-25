@@ -88,6 +88,7 @@ TODO: i should probably cut down the list a bit
 
 - recursion
 - homoiconicity
+- notation
 
 ### QUOTES
 
@@ -124,6 +125,7 @@ TODO: i should probably cut down the list a bit
 
 - Clifford Stoll
 - David Foster Wallace
+- Jordan Peterson
 
 ### RASCALS
 
@@ -190,6 +192,8 @@ TODO: i should probably cut down the list a bit
 
 - *Björk*
 - *Joanna Newsom*
+- Wave Racer
+- TODO: this is going to get hectic
 
 #### MIXES
 
