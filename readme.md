@@ -166,6 +166,7 @@ TODO: i should probably cut down the list a bit
 - Better Off Ted
 - Cowboy Bebop
 - Rick & Morty
+- Squid Girl
 
 ### FILM
 
